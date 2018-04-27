@@ -15,6 +15,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="App.cs" t="Include" />
+          <e p="Attacker.cs" t="Include" />
           <e p="LevelManager.cs" t="Include" />
           <e p="MainUI.cs" t="Include" />
           <e p="MusicManager.cs" t="Include" />
